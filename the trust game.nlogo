@@ -617,7 +617,7 @@ coop-vs-coop
 coop-vs-coop
 -5
 5
-1.0
+0.0
 1
 1
 NIL
@@ -677,7 +677,7 @@ mistake-rate
 mistake-rate
 0
 1
-0.3
+0.0
 0.1
 1
 NIL
